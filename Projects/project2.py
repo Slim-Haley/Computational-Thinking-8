@@ -23,7 +23,7 @@ elif answer == "B":
     baseball_points += 1    
 
 
-    answer = input("what do you like more A) the gym, or B) sports?")
+answer = input("what do you like more A) the gym, or B) sports?")
 if answer == "A":
    football_points += 1
 elif answer == "B":
